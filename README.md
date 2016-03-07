@@ -1,1 +1,1 @@
-Chrome Extension that takes key search words and plays a mp3 clip from spotify based on it. 
+# Chrome extension for used to play songs in accordance with relevant search termss
